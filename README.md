@@ -3,6 +3,7 @@
 A collection of devops resources 
 
 ![Ultimate-DevOps-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-DevOps-Resources/blob/main/cover.png)
+![What is DevOps? - Red Hat](https://www.redhat.com/en/topics/devops)
 
 ## Contributing
 
