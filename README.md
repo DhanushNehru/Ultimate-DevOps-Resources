@@ -13,3 +13,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-DevOps-Resour
 
 - [Ultimate-DevOps-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-DevOps-Resources)
   - [What is DevOps? - Red Hat](https://www.redhat.com/en/topics/devops)
+  - [Free YouTube resources](#free-youtube-resources)
+
+ 
+## Free Youtube Resources
+- [TechWorld With Nana](https://www.youtube.com/@TechWorldwithNana)
+- [Technical Guftgu](https://www.youtube.com/@TechnicalGuftgu)
