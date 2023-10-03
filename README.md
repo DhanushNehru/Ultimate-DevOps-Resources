@@ -17,5 +17,26 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-DevOps-Resour
 
  
 ## Free Youtube Resources
-- [TechWorld With Nana](https://www.youtube.com/@TechWorldwithNana)
-- [Technical Guftgu](https://www.youtube.com/@TechnicalGuftgu)
+ - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
+
+ - [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha)
+ 
+ - [Kubesimplify](https://www.youtube.com/@kubesimplify)
+ 
+ - [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
+
+ - [DevOps Directive](https://www.youtube.com/@DevOpsDirective)
+
+ - [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
+ 
+ - [Bret Fisher Docker and DevOps](https://www.youtube.com/@BretFisher)
+
+ - [KodeKloud ](https://www.youtube.com/@KodeKloud)
+
+ - [Simplilearn](https://www.youtube.com/@SimplilearnOfficial)
+
+ - [Cloud Advocate](https://www.youtube.com/@CloudAdvocate)
+
+ - [Rawkode Academy](https://www.youtube.com/@RawkodeAcademy)
+
+ - [Technical Guftgu](https://www.youtube.com/@TechnicalGuftgu)
