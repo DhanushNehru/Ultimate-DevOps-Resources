@@ -33,6 +33,12 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-DevOps-Resour
  - [Technical Guftgu](https://www.youtube.com/@TechnicalGuftgu)
  - [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)
 
+## Other Online Resources
+ - [DevOps](https://devops.com)
+ - [DevOpsCube](https://devopscube.com)
+ - [DZone DevOops](https://dzone.com)
+ - [DevOps Reddit](https://reddit.com/r/devops)
+ - [Scott Hanselman's Blob](https://www.hanselman.com/blog)
 
 If you liked this repository support it by starring ⭐
 
