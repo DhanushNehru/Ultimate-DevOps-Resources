@@ -55,31 +55,30 @@ Blogs to Learn Devops
 #RoadMap To Learn Devops
 
 Basic
-
-  - [Learn the fundamentals of programming (e.g., Python, Bash)]
-  - [Understand the basics of operating systems and networking]
-  - [Learn about version control systems (e.g., Git)]
-  - [Get familiar with automation tools and practices (e.g., Ansible, Terraform)]
-  - [Learn about containerization technologies (e.g., Docker)]
-  - [Learn about cloud computing platforms (e.g., AWS, Azure, GCP)]
-  - [Learn about continuous integration and continuous delivery (CI/CD) practices]
+  - Learn the fundamentals of programming (e.g., Python, Bash)
+  - Understand the basics of operating systems and networking
+  - Learn about version control systems (e.g., Git)
+  - Get familiar with automation tools and practices (e.g., Ansible, Terraform)
+  - Learn about containerization technologies (e.g., Docker)
+  - Learn about cloud computing platforms (e.g., AWS, Azure, GCP)
+  - Learn about continuous integration and continuous delivery (CI/CD) practices
 
 Intermediate
-  - [Gain experience with DevOps tools and practices in a real-world project]
-  - [Learn about infrastructure as code (IaC) and configuration management tools (e.g., Chef, Puppet)]
-  - [Learn about monitoring and observability tools (e.g., Prometheus, Grafana)]
-  - [Learn about security and compliance in DevOps]
-  - [Learn about DevOps culture and practices]
+  - Gain experience with DevOps tools and practices in a real-world project
+  - Learn about infrastructure as code (IaC) and configuration management tools (e.g., Chef, Puppet)
+  - Learn about monitoring and observability tools (e.g., Prometheus, Grafana)
+  - Learn about security and compliance in DevOps
+  - Learn about DevOps culture and practices
 
   Advanced
-  - [Learn about site reliability engineering (SRE) principles and practices]
-  - [Learn about chaos engineering and disaster recovery]
-  - [Learn about DevOps for machine learning and artificial intelligence]
-  - [Learn about DevOps for cloud-native applications]
-  - [Learn about DevOps for continuous innovation]
+  - Learn about site reliability engineering (SRE) principles and practices
+  - Learn about chaos engineering and disaster recovery
+  - Learn about DevOps for machine learning and artificial intelligence
+  - Learn about DevOps for cloud-native applications
+  - Learn about DevOps for continuous innovation
  
  Conclusion
- -[The DevOps roadmap is a journey, not a destination. There is always more to learn and new technologies to adopt. The important thing is to start learning and get involved in the DevOps community.]
+ - The DevOps roadmap is a journey, not a destination. There is always more to learn and new technologies to adopt. The important thing is to start learning and get involved in the DevOps community.
 
 If you liked this repository support it by starring ⭐
 
