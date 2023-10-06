@@ -52,7 +52,7 @@ Blogs to Learn Devops
 - [The New Stack](https://thenewstack.io/)
 - [The DevOps Guy](https://www.youtube.com/@MarcelDempers)
 
-#RoadMap To Learn Devops
+## RoadMap To Learn Devops
 
 Basic
   - Learn the fundamentals of programming (e.g., Python, Bash)
