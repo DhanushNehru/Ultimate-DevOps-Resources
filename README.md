@@ -35,14 +35,21 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-DevOps-Resour
 - [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)
 
 ## Resources to Learn Devops
-
-- [Courses To Learn Devops]
+  #Courses To Learn Devops
 - [DevOps Bootcamp by Coursera](https://www.coursera.org/courses?query=devops)
-- [DevOps Fundamentals by Edureka](https://www.edureka.co/blog/devops-tutorial) -[DevOps with AWS by Amazon Web Services](https://www.coursera.org/specializations/aws-devops) -[DevOps with Azure by Microsoft Azure](https://azure.microsoft.com/en-in/products/devops) -[DevOps with Google Cloud Platform by Google Cloud Platform](https://cloud.google.com/devops)
+- [DevOps Fundamentals by Edureka](https://www.edureka.co/blog/devops-tutorial)
+ -[DevOps with AWS by Amazon Web Services](https://www.coursera.org/specializations/aws-devops)
+  -[DevOps with Azure by Microsoft Azure](https://azure.microsoft.com/en-in/products/devops) 
+  -[DevOps with Google Cloud Platform by Google Cloud Platform](https://cloud.google.com/devops)
 
-#Books to Learn Devops -[The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, and John Willis](https://www.amazon.in/DevOPS-Handbook-World-Class-Reliability-Organizations/dp/1942788002) -[Accelerate: Building and Scaling High Performing Technology Organizations by Nicole Forsgren, Jez Humble, and Gene Kim](https://www.amazon.in/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMCFBWY)
+#Books to Learn Devops -[The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, and John Willis](https://www.amazon.in/DevOPS-Handbook-World-Class-Reliability-Organizations/dp/1942788002) 
+-[Accelerate: Building and Scaling High Performing Technology Organizations by Nicole Forsgren, Jez Humble, and Gene Kim](https://www.amazon.in/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMCFBWY)
 
-#Blogs to Learn Devops -[DevOps.com](https://devops.com/) -[DZone](https://dzone.com/) -[The New Stack](https://thenewstack.io/) -[The DevOps Guy](https://www.youtube.com/@MarcelDempers)
+#Blogs to Learn Devops 
+-[DevOps.com](https://devops.com/) 
+-[DZone](https://dzone.com/) 
+-[The New Stack](https://thenewstack.io/)
+-[The DevOps Guy](https://www.youtube.com/@MarcelDempers)
 
 If you liked this repository support it by starring ⭐
 
