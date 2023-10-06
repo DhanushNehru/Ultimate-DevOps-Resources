@@ -31,3 +31,4 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-DevOps-Resour
  - [Cloud Advocate](https://www.youtube.com/@CloudAdvocate)
  - [Rawkode Academy](https://www.youtube.com/@RawkodeAcademy)
  - [Technical Guftgu](https://www.youtube.com/@TechnicalGuftgu)
+ - [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)
