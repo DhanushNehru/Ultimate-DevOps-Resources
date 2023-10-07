@@ -51,6 +51,11 @@ Blogs to Learn Devops
 - [DZone](https://dzone.com/) 
 - [The New Stack](https://thenewstack.io/)
 - [The DevOps Guy](https://www.youtube.com/@MarcelDempers)
+- [DevOpsCube](https://devopscube.com)
+- [DevOps Reddit](https://reddit.com/r/devops)
+- [Scott Hanselman's Blob](https://www.hanselman.com/blog)
+
+
 
 ## RoadMap To Learn Devops
 
@@ -79,6 +84,7 @@ Intermediate
  
  Conclusion
  - The DevOps roadmap is a journey, not a destination. There is always more to learn and new technologies to adopt. The important thing is to start learning and get involved in the DevOps community.
+
 
 If you liked this repository support it by starring ⭐
 
