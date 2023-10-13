@@ -54,9 +54,6 @@ Blogs to Learn Devops
 - [DevOpsCube](https://devopscube.com)
 - [DevOps Reddit](https://reddit.com/r/devops)
 - [Scott Hanselman's Blob](https://www.hanselman.com/blog)
-- [HashNode DevOps](https://hashnode.com/n/devops)
-- [90DaysofHashNodeDevOps](https://hashnode.com/n/90daysofdevops)
-
 
 ## RoadMap To Learn Devops
 - [DevOps RoadMap](https://hashnode.com/n/90daysofdevops)
