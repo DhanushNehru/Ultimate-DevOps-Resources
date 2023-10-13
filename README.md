@@ -55,9 +55,8 @@ Blogs to Learn Devops
 - [DevOps Reddit](https://reddit.com/r/devops)
 - [Scott Hanselman's Blob](https://www.hanselman.com/blog)
 
-
-
 ## RoadMap To Learn Devops
+- [DevOps RoadMap](https://hashnode.com/n/90daysofdevops)
 
 Basic
   - Learn the fundamentals of programming (e.g., Python, Bash)
