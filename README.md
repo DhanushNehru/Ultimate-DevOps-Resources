@@ -2,7 +2,7 @@
 
 A collection of devops resources
 
-![Ultimate-DevOps-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-DevOps-Resources/blob/main/cover.png)
+![Ultimate-DevOps-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-DevOps-Resources/blob/main/cover.png?raw=true)
 
 ## Contributing
 
