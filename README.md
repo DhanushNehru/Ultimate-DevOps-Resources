@@ -18,6 +18,13 @@ Before you contribute, please review our [CONTRIBUTING](https://github.com/Dhanu
 
 - Explore the concept of DevOps with [Red Hat](https://www.redhat.com/en/topics/devops).
 
+## DevOps Tools
+
+- [Kubernetes](https://kubernetes.io/)
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/)
+- [Jenkins](https://www.jenkins.io/)
+
 ## Free YouTube Resources
 
 Enhance your DevOps knowledge with these YouTube channels:
