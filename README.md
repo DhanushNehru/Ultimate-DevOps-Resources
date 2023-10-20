@@ -2,7 +2,7 @@
 
 Welcome to the Ultimate DevOps Resources repository, a curated collection of valuable resources for DevOps enthusiasts. Whether you're a beginner or an experienced practitioner, this repository is your one-stop destination for all things DevOps.
 
-![Ultimate-DevOps-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-DevOps-Resources/blob/main/cover.png?raw=true)
+![Ultimate-DevOps-Resources by Dhanush N](./cover.png)
 
 ## Contributing
 
