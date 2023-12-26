@@ -12,7 +12,11 @@ Before you contribute, please review our [CONTRIBUTING](https://github.com/Dhanu
 
 - [Ultimate-DevOps-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-DevOps-Resources)
   - [What is DevOps](#what-is-devops)
+  - [DevOps Tools](#DevOps-Tools)
   - [Free YouTube resources](#free-youtube-resources)
+  - [Resources to Learn DevOps](#Resources-to-Learn-DevOps)
+  - [Github Repositories for DevOps](#Github-Repositories-for-DevOps)
+  - [RoadMap To Learn Devops](#RoadMap-To-Learn-Devops)
 
 ## What is DevOps
 
@@ -70,6 +74,16 @@ Stay informed with these DevOps blogs:
 - [DevOpsCube](https://devopscube.com)
 - [DevOps Reddit](https://reddit.com/r/devops)
 - [Scott Hanselman's Blob](https://www.hanselman.com/blog)
+
+## Github Repositories for DevOps
+
+- [Awesome scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Awesome cloudnative trainings](https://github.com/joseadanof/awesome-cloudnative-trainings)
+- [Devops exercises](https://github.com/bregman-arie/devops-exercises)
+- [Fast Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes)
+- [Awesome SRE](https://github.com/dastergon/awesome-sre)
+- [Awesome Devsecops](https://github.com/devsecops/awesome-devsecops)
+- [Devops Bash Tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
 ## RoadMap To Learn Devops
 
