@@ -1,5 +1,13 @@
 # [Ultimate-DevOps-Resources](https://github.com/DhanushNehru/Ultimate-DevOps-Resources)
 
+<div align="center">
+  
+[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
+[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
+[![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
+
+</div>
+
 Welcome to the Ultimate DevOps Resources repository, a curated collection of valuable resources for DevOps enthusiasts. Whether you're a beginner or an experienced practitioner, this repository is your one-stop destination for all things DevOps.
 
 ![Ultimate-DevOps-Resources by Dhanush N](./cover.png)
@@ -117,8 +125,10 @@ If you're looking to embark on a DevOps journey, follow this comprehensive roadm
 
 Remember, the DevOps journey is ongoing. There is always more to learn and new technologies to adopt. The key is to start learning and actively engage with the DevOps community.
 
-Hey, I'm Dhanush N, the maintainer of this open-source repository. Connect with me and support or follow my work on [Twitter](https://twitter.com/Dhanush_Nehru), [Instagram](https://www.instagram.com/dhanush_nehru/), [YouTube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1), and [Github](https://github.com/DhanushNehru).
+</br>
 
-If you find this repository valuable, show your support by starring ⭐ it.
+If you find this repository valuable, show your support by starring it. ⭐
+
+</br>
 
 Thank you for being here and exploring the world of DevOps!
