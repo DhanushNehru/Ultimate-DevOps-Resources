@@ -1,4 +1,4 @@
-# [Ultimate-DevOps-Resources](https://github.com/DhanushNehru/Ultimate-DevOps-Resources)
+# [Ultimate DevOps Resources](https://github.com/DhanushNehru/Ultimate-DevOps-Resources)
 
 <div align="center">
   
