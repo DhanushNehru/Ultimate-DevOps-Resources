@@ -45,16 +45,20 @@ Before you contribute, please review our [CONTRIBUTING](https://github.com/Dhanu
 
 ## DevOps Tools
 
-- [Kubernetes](https://kubernetes.io/)
-- [Docker](https://www.docker.com/)
-- [Git](https://git-scm.com/)
+- [Linux](https://www.linux.org)
+- [Git/GitHub](https://git-scm.com/)
 - [Jenkins](https://www.jenkins.io/)
+- [Docker](https://www.docker.com/)
+- [Kubernetes](https://kubernetes.io/)
+- [Ansible](https://docs.ansible.com/ansible/latest/index.html)
+- [Teraform](https://developer.hashicorp.com/terraform)
 
 ## Free YouTube Resources
 
 Enhance your DevOps knowledge with these YouTube channels:
 
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
+- [TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
 - [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha)
 - [Kubesimplify](https://www.youtube.com/@kubesimplify)
 - [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
@@ -77,6 +81,7 @@ Enhance your DevOps knowledge with these YouTube channels:
 
 - Enroll in courses to master DevOps:
   - [DevOps Bootcamp by Coursera](https://www.coursera.org/courses?query=devops)
+  - [Become an OCI DevOps Professional (2025)- Oracle University](https://mylearn.oracle.com/ou/learning-path/become-an-oci-devops-professional-2025/147556)
   - [DevOps Fundamentals by Edureka](https://www.edureka.co/blog/devops-tutorial)
   - [DevOps with AWS by Amazon Web Services](https://www.coursera.org/specializations/aws-devops)
   - [DevOps with Azure by Microsoft Azure](https://azure.microsoft.com/en-in/products/devops) 
@@ -117,6 +122,7 @@ If you're looking to embark on a DevOps journey, follow this comprehensive roadm
 - [DevOps RoadMap](https://hashnode.com/n/90daysofdevops)
 
 ### Basic
+- Firstly go with Linux Command interface and basics of all commands.
 - Start with the fundamentals of programming, including Python and Bash.
 - Understand the basics of operating systems and networking.
 - Learn version control systems, such as Git.
