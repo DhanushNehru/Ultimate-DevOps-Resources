@@ -49,6 +49,7 @@ Before you contribute, please review our [CONTRIBUTING](https://github.com/Dhanu
 - [Docker](https://www.docker.com/)
 - [Git](https://git-scm.com/)
 - [Jenkins](https://www.jenkins.io/)
+- [Radar](https://github.com/skyhook-io/radar) - Open-source Kubernetes UI with topology visualization and a built-in MCP server for AI agents.
 
 ## Free YouTube Resources
 
