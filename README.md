@@ -12,6 +12,38 @@ Welcome to the Ultimate DevOps Resources repository, a curated collection of val
 
 ![Ultimate-DevOps-Resources by Dhanush N](./cover.png)
 
+## Support this project
+
+If these resources saved you time, consider supporting my work:
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://ko-fi.com/dhanushnehru" target="_blank">
+    <img
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      alt="Support me on Ko-fi"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.buymeacoffee.com/dhanushnehru">
+    <img
+      src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=dhanushnehru&button_colour=24292E&font_colour=FFFFFF&font_family=Poppins&outline_colour=6cc644&coffee_colour=ffffff"
+      alt="Buy me a book"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+</tr>
+</table>
+
+Or [sponsor me on GitHub](https://github.com/sponsors/DhanushNehru).
+
 ## Contributing
 
 Before you contribute, please review our [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-DevOps-Resources/blob/main/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-DevOps-Resources/blob/main/CODE-OF-CONDUCT.md) guidelines to ensure a positive and collaborative experience.
