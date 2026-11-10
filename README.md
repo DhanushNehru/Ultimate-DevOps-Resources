@@ -1,11 +1,18 @@
 # [Ultimate DevOps Resources](https://github.com/DhanushNehru/Ultimate-DevOps-Resources)
 
+<!-- Original Markdown badge block kept for reference.
 <div align="center">
   
 [![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
 [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 [![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
 
+</div>
+-->
+<div align="center">
+  <a href="https://discord.com/invite/Yn9g6KuWyA"><img src="https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&amp;style=for-the-badge" alt="Join Our Discord"></a>
+  <a href="https://www.youtube.com/@dhanushnehru?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&amp;style=for-the-badge" alt="Subscribe on YouTube"></a>
+  <a href="https://dhanushn.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge" alt="Subscribe to Newsletter"></a>
 </div>
 
 Welcome to the Ultimate DevOps Resources repository, a curated collection of valuable resources for DevOps enthusiasts. Whether you're a beginner or an experienced practitioner, this repository is your one-stop destination for all things DevOps.
